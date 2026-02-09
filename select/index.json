@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "kill late it",
+  "base_artist": "dodo",
+  "createdAt": "2026-02-09T05:33:02.403559Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "kill late it",
+      "artist": "dodo",
+      "has_synced": false,
+      "path": "select/pl_01_kill_late_it_dodo.txt"
+    }
+  ]
+}
